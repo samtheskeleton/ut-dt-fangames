@@ -1,0 +1,94 @@
+{
+  "frames": [
+    {
+      "name": "critters00",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    },
+    {
+      "name": "critters01",
+      "position": {
+        "x": 16,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    },
+    {
+      "name": "critters02",
+      "position": {
+        "x": 32,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    },
+    {
+      "name": "critters03",
+      "position": {
+        "x": 48,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    },
+    {
+      "name": "critters04",
+      "position": {
+        "x": 64,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    },
+    {
+      "name": "critters05",
+      "position": {
+        "x": 80,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    },
+    {
+      "name": "critters06",
+      "position": {
+        "x": 96,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    },
+    {
+      "name": "critters07",
+      "position": {
+        "x": 112,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    },
+    {
+      "name": "critters08",
+      "position": {
+        "x": 128,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    },
+    {
+      "name": "critters09",
+      "position": {
+        "x": 144,
+        "y": 0,
+        "w": 16,
+        "h": 19
+      }
+    }
+  ]
+}

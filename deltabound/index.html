@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="p5.js"></script>
+  <script src="p5.sound.min.js"></script>
+  <link rel="stylesheet" pe="text/css" href="style.css">
+  <meta charset="utf-8" />
+
+</head>
+
+<body>
+  <script src="oneLet.js"></script>
+  <script src="oneFunction.js"></script>
+  <script src="oneClass.js"></script>
+  <script src="preload.js"></script>
+  <script src="sketch.js"></script>
+
+  <script>
+    window.addEventListener("keydown", function(e) {
+      if ([32, 37, 38, 39, 40].indexOf(e.keyCode) > -1) {
+        e.preventDefault();
+      }
+    }, false);
+  </script>
+
+</body>
+
+</html>

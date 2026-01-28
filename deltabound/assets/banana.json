@@ -1,0 +1,634 @@
+{
+  "frames": [
+    {
+      "name": "banana00",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana01",
+      "position": {
+        "x": 15,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana02",
+      "position": {
+        "x": 30,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana03",
+      "position": {
+        "x": 45,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana04",
+      "position": {
+        "x": 60,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana05",
+      "position": {
+        "x": 75,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana06",
+      "position": {
+        "x": 90,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana07",
+      "position": {
+        "x": 105,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana08",
+      "position": {
+        "x": 120,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana09",
+      "position": {
+        "x": 135,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana10",
+      "position": {
+        "x": 150,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana11",
+      "position": {
+        "x": 165,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana12",
+      "position": {
+        "x": 180,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana13",
+      "position": {
+        "x": 195,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana14",
+      "position": {
+        "x": 210,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana15",
+      "position": {
+        "x": 225,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana16",
+      "position": {
+        "x": 240,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana17",
+      "position": {
+        "x": 255,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana18",
+      "position": {
+        "x": 270,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana19",
+      "position": {
+        "x": 285,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana20",
+      "position": {
+        "x": 300,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana21",
+      "position": {
+        "x": 315,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana22",
+      "position": {
+        "x": 330,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana23",
+      "position": {
+        "x": 345,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana24",
+      "position": {
+        "x": 360,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana25",
+      "position": {
+        "x": 375,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana26",
+      "position": {
+        "x": 390,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana27",
+      "position": {
+        "x": 405,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana28",
+      "position": {
+        "x": 420,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana29",
+      "position": {
+        "x": 435,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana30",
+      "position": {
+        "x": 450,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana31",
+      "position": {
+        "x": 465,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana32",
+      "position": {
+        "x": 480,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana33",
+      "position": {
+        "x": 495,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana34",
+      "position": {
+        "x": 510,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana35",
+      "position": {
+        "x": 525,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana36",
+      "position": {
+        "x": 540,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana37",
+      "position": {
+        "x": 555,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana38",
+      "position": {
+        "x": 570,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana39",
+      "position": {
+        "x": 585,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana40",
+      "position": {
+        "x": 600,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana41",
+      "position": {
+        "x": 615,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana42",
+      "position": {
+        "x": 630,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana43",
+      "position": {
+        "x": 645,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana44",
+      "position": {
+        "x": 660,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana45",
+      "position": {
+        "x": 675,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana46",
+      "position": {
+        "x": 690,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana47",
+      "position": {
+        "x": 705,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana48",
+      "position": {
+        "x": 720,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana49",
+      "position": {
+        "x": 735,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana50",
+      "position": {
+        "x": 750,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana51",
+      "position": {
+        "x": 765,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana52",
+      "position": {
+        "x": 780,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana53",
+      "position": {
+        "x": 795,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana54",
+      "position": {
+        "x": 810,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana55",
+      "position": {
+        "x": 825,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana56",
+      "position": {
+        "x": 840,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana57",
+      "position": {
+        "x": 855,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana58",
+      "position": {
+        "x": 870,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana59",
+      "position": {
+        "x": 885,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana60",
+      "position": {
+        "x": 900,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana61",
+      "position": {
+        "x": 915,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana62",
+      "position": {
+        "x": 930,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana63",
+      "position": {
+        "x": 945,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana64",
+      "position": {
+        "x": 960,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana65",
+      "position": {
+        "x": 975,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana66",
+      "position": {
+        "x": 990,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana67",
+      "position": {
+        "x": 1005,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana68",
+      "position": {
+        "x": 1020,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    },
+    {
+      "name": "banana69",
+      "position": {
+        "x": 1035,
+        "y": 0,
+        "w": 15,
+        "h": 17
+      }
+    }
+  ]
+}
